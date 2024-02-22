@@ -1,0 +1,6 @@
+address: https://test-stand.gb.ru
+#driver_path: /Users/sergejveletnuk/Desktop/Test_web_Selenium/chromedriver
+sleep_time: 3
+browser: chrome
+login: 'leonid'
+passwd: '142153c067'
